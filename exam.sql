@@ -1,0 +1,10 @@
+INSERT INTO `exam` VALUES (1, '1', '未完成', 120, 150, '语文', 'c001');
+INSERT INTO `exam` VALUES (2, '1', '未完成', 120, 150, '语文', 'c002');
+INSERT INTO `exam` VALUES (3, '1', '未完成', 120, 100, '语文', 'c002');
+INSERT INTO `exam` VALUES (4, '1', '未完成', 120, 100, '语文', 'c002');
+INSERT INTO `exam` VALUES (5, '1', '未完成', 120, 100, '语文', 'c002');
+INSERT INTO `exam` VALUES (6, '1', '未完成', 120, 100, '语文', 'c002');
+INSERT INTO `exam` VALUES (7, '1', '未完成', 120, 100, '语文', 'c002');
+INSERT INTO `exam` VALUES (8, '1', '未完成', 222, 222, '语文', 'c002');
+INSERT INTO `exam` VALUES (9, '1', '未完成', 120, 100, '语文', 'c002');
+INSERT INTO `exam` VALUES (10, '1', '未完成', 120, 100, '语文', 'c002');

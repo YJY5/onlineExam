@@ -1,0 +1,3 @@
+INSERT INTO `sc` VALUES ('s001', 'c002', 60.00);
+INSERT INTO `sc` VALUES ('s001', 'c001', 2.00);
+INSERT INTO `sc` VALUES ('s001', 'c001', 3.00);
